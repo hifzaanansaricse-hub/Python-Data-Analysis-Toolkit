@@ -2,6 +2,7 @@
 
 NumPy, Pandas, and Matplotlib — comprehensive Python learning from fundamentals to advanced concepts, hands-on coding exercises, file handling, data cleaning, and data visualization.
 
+```
 Python-Data-Analysis-Toolkit/
 │
 ├── NumPy/
@@ -36,8 +37,7 @@ Python-Data-Analysis-Toolkit/
 │   ├── indian_employee_raw_data_500_rows.csv
 │   └── Cleaned_Indian_Employee.csv
 │
-├── README.md
-└── requirements.txt
+└── requirements.txt 
 
 Python Data Analysis Toolkit
 
